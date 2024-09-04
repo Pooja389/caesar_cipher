@@ -16,4 +16,4 @@ This is a Python implementation of the Caesar cipher, a simple encryption techni
 3. Navigate to the directory where the script is located.
 4. Run the script using the following command:
    ```bash
-   python caesar_cipher.py
+   python caesar.py
